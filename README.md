@@ -8,16 +8,16 @@ Note: If you are looking for every type of publicly available documents and note
 
 | Title | Month | Source |
 |----------------|--------|--------|
-| [APT28: A WINDOW INTO RUSSIAS CYBER ESPIONAGE OPERATIONS?](2017/rpt-apt28.pdf) | Jan | FireEye |
+| [APT28: A Window into Russias Cyber Espionage Operations?](2017/rpt-apt28.pdf) | Jan | FireEye |
 | [APT28: At the center of the storm. Russia strategically evolves its cyber operations](2017/APT28-Center-of-Storm-2017.pdf) | Jan | FireEeye |
 | [APT28 Under the Scope A Journey into Exfiltrating Intelligence and Government Information](2017/Bitdefender_In-depth_analysis_of_APT28_The_Political_Cyber-Espionage.pdf) | Feb | BitDefender |
 | [KingSlayer A Supply chain attack](2017/kingslayer-a-supply-chain-attack.pdf) | Feb | RSA |
-| [Nile Phish: Large-Scale Phishing Campaign Targeting Egyptian Civil Society](2017/Nile-Phish.pdf) Feb | The Citizen Lab |
+| [Nile Phish: Large-Scale Phishing Campaign Targeting Egyptian Civil Society](2017/Nile-Phish.pdf) | Feb | The Citizen Lab |
 | [Bitter Sweet: Supporters of Mexico's Soda Tax Targeted With NSO Exploit Links](2017/Bitter-Sweet.pdf) | Feb | The Citizen Lab |
 | [Enhanced Analysis of GRIZZLY STEPPE Activity](2017/US-CERT-AR-17-20045_Enhanced_Analysis_of_GRIZZLY_STEPPE_Activity.pdf) | Feb | US-CERT |
 | [Dissecting the APT28 Mac OS X Payload](2017/Bitdefender-Whitepaper-APT-Mac-A4-en-EN-web.pdf) | Feb | Bitdefender |
 | [From Shamoon to StoneDrill](2017/Kaspersky_Report_Shamoon_StoneDrill_final.pdf) | Mar | Kaspersky |
-| [LAZARUS UNDER THE HOOD](2017/Lazarus_Under_The_Hood_PDF_final.pdf) | Apr | Kaspersky |
+| [Lazarus Under the Hood](2017/Lazarus_Under_The_Hood_PDF_final.pdf) | Apr | Kaspersky |
 | [Appendix B: Moonlight Maze Technical Report](2017/Penquins_Moonlit_Maze_AppendixB.pdf) | Apr | Kaspersky |
 | [Callisto Group](2017/callisto-group.pdf) | Apr | F-Secure |
 | [McAfee Labs Threats Report](2017/rp-quarterly-threats-mar-2017.pdf) | Apr | McAfee |

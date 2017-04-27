@@ -75,7 +75,7 @@ Note: If you are looking for every type of publicly available documents and note
 | [Shooting Elephants](2015/Elephantosis.pdf) | Feb | CIRCL Luxembourg |
 | [Tibetan Uprising Day Malware Attacks](2015/Tibetan-Uprising-Day-Malware-Attacks_websitepdf.pdf) | Mar | The Citizen Lab |
 | [Operation Woolen-Goldfish When Kittens Go Phishing](2015/wp-operation-woolen-goldfish.pdf) | Mar | Trend Micro |
-| [Volatile Cedar Threat Intelligence And Research](2015/volatile-cedar-technical-report.pdf) | Mar5 | Check Point |
+| [Volatile Cedar Threat Intelligence And Research](2015/volatile-cedar-technical-report.pdf) | Mar | Check Point |
 | [HACKING THE STREET? FIN4 LIKELY PLAYING THE MARKET](2015/rpt-fin4.pdf) | Apr | FireEye |
 | [APT30 And The Mechanics Of A Long-Running Cyber Espionage Operation](2015/rpt-apt30.pdf) | Apr | FireEye |
 | [Sofacy II Same Sofacy, Different Day](2015/cto-tib-20150420-01a.pdf) | Apr | PWC |
@@ -122,7 +122,7 @@ Note: If you are looking for every type of publicly available documents and note
 | [Putter Panda](2014/putter-panda.pdf) | Jun | Crowdstrike |
 | [Anatomy Of The Attack: Zombie Zero](2014/TrapX_ZOMBIE_Report_Final.pdf) | Jun | Trapx |
 | [Dragonfly: Cyberespionage Attacks Against Energy Suppliers](2014/Dragonfly_Threat_Against_Western_Energy_Suppliers.pdf) | Jun | Symantec |
-| [Police Story: Hacking Team Government Surveillance Malware](2014/Police-Story-Hacking-Teams-Government-Surveillance-Malware.pdf) Jun | The Citizen Lab |
+| [Police Story: Hacking Team Government Surveillance Malware](2014/Police-Story-Hacking-Teams-Government-Surveillance-Malware.pdf) | Jun | The Citizen Lab |
 | [Energetic Bear _ Crouching Yeti](2014/EB-YetiJuly2014-Public.pdf) | Jul | Kaspersky |
 | [The Eye Of The Tiger (Pitty Tiger)](2014/Pitty_Tiger_Final_Report.pdf) | Jul | Airbus |
 | [Crouching Yeti: Appendixes](2014/Kaspersky_Lab_crouching_yeti_appendixes_eng_final.pdf) | Jul | Kaspersky |

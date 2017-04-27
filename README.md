@@ -31,7 +31,9 @@ Note: If you are looking for every type of publicly available documents and note
 | [Operation Duststorm](2016/Cylance_Op_Dust_Storm_Report.pdf) | Feb | Cylance |
 | [peration Blockbuster](2016/Novetta_Operation-Blockbuster-Report.pdf) | Feb | Novetta |
 | [From Seoul to Sony](2016/Bluecoat_FROM_SEOUL_TO_SONY.pdf) | Feb | Blue Coat |
+| [The Four-Element Sword Engagement: Ongoing APT Targeting of Tibetan, Hong Kong, and Taiwanese Interests](2016/ASERT-Threat-Intelligence-Report-2016-03-The-Four-Element-Sword-Engagement.pdf) | Mar | Arbor Networks |
 | [The Four Element Sword Engagement](2016/Arbor_The-Four-Element-Sword-Engagement.pdf) | Apr | Arbor Networks |
+| [Between Hong Kong and Burma: Tracking UP007 and SLServer Espionage Campaigns](2016/Between-Hong-Kong-and-Burma.pdf) | Apr | The Citizen Lab |
 | [PLATINUM Targeted attacks in South and Southeast Asia](2016/Microsoft_Targeted-attacks-in-South-and-Southeast-Asia.pdf) | Apr | Microsoft |
 | [Mofang: A politically motivated information stealing adversary](2016/Fox-IT_mofang_threatreport_tlp-white.pdf) | May | FoxIT |
 | [Operation Groundbait:Analysis of a surveillance toolkit](2016/ESET_Operation-Groundbait.pdf) | May | Kaspersky |
@@ -98,6 +100,7 @@ Note: If you are looking for every type of publicly available documents and note
 | [HAMMERTOSS: Stealthy Tactics Define a Russian Cyber Threat Group](2015/rpt-apt29-hammertoss.pdf) | Jul | FireEye |
 | [Butterfly: Corporate Spies Out For Financial Gain](2015/butterfly-corporate-spies-out-for-financial-gain.pdf) | Jul | Symantec |
 | [RSA Research Terracotta VPN: Enabler Of Advanced Threat Anonymity](2015/Terracotta-VPN-Report-Final-8-3.pdf) | Aug | RSA |
+| [What we know about the South Korea NIS's use of Hacking Team's RCS](2015/What-we-know-about-the-South-Korea-NIS.pdf) | Aug | The Citizen Lab |
 | [THE DUKES: 7 years of Russian cyberespionage](2015/dukes_whitepaper.pdf) | Sep | F-Secure |
 | [RUSSIAN FINANCIAL CYBERCRIME: HOW IT WORKS](2015/Kaspersky_Lab_cybercrime_underground_report_eng_v1_0.pdf) | Nov | Kaspersky |
 | [CopyKittens Attack Group](2015/Minerva_Clearsky_CopyKittens11-23-15.pdf) | Nov | ClearSky |
@@ -169,6 +172,7 @@ Note: If you are looking for every type of publicly available documents and note
 | [Apt1 Exposing One Of China's Cyber Espionage Units](2013/Mandiant_APT1_Report.pdf) | Feb | Mandiant |
 | [Command And Control In The Fifth Domain](2013/C5_APT_C2InTheFifthDomain.pdf) | Feb | Command Five Pty Ltd |
 | [Comment Crew: Indicators Of Compromise](2013/comment_crew_indicators_of_compromise.pdf) | Feb | Symantec |
+| [APT1s GLASSES: Watching a Human Rights Organization](2013/APT1s-GLASSES-Watching-a-Human-Rights-Organization_websitepdf.pdf) | Feb | The Citizen Lab |
 | [Dissecting Operation Troy: Cyberespionage In South Korea](2013/dissecting-operation-troy.pdf) | Mar | McAfee |
 | [The Teamspy Story - Abusing Teamviewer In Cyberespionage Campaigns](2013/theteamspystory_final_t2.pdf) | Mar | Kaspersky |
 | [Analysis Of A Plugx Variant (Plugx Version 7.0)](2013/tr-12-circl-plugx-analysis-v1.pdf) | Mar | CIRCL |
@@ -215,6 +219,7 @@ Note: If you are looking for every type of publicly available documents and note
 | [Gauss: Abnormal Distribution](2012/kaspersky-lab-gauss.pdf) | Aug | Kaspersky |
 | [The Voho Campaign: An In Depth Analysis](2012/VOHO_WP_FINAL_READY-FOR-Publication-09242012_AC.pdf) | Aug | RSA |
 | [The Elderwood Project](2012/the-elderwood-project.pdf) | Sep | Symantec |
+| [Backdoors are Forever: Hacking Team and the Targeting of Dissent](2012/Backdoors-are-Forever-Hacking-Team-and-the-Targeting-of-Dissent_websitepdf.pdf) | Oct | The Citizen Lab |
 | [Trojan.Taidoor: Targeting Think Tanks](2012/trojan_taidoor-targeting_think_tanks.pdf) | Oct | Symantec |
 | [Recovering From Shamoon](2012/FTA-1007-Shamoon.pdf) | Nov | Fidelis |
 | [Systematic Cyber Attacks Against Israeli And Palestinian Targets Going On For A Year](2012/Cyberattack_against_Israeli_and_Palestinian_targets.pdf) | Nov | Norman |

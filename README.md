@@ -218,7 +218,8 @@ Note: If you are looking for every type of publicly available documents and note
 | [Energy At Risk: A Study Of It Security In The Energy And Natural Resources Industry](2013/energy-at-risk.pdf) | Dec | KPMG |
 | [Etso Apt Attacks Analysis](2013/ETSO_APT_Attacks_Analysis.pdf)| Dec | AHNLAB |
 | [Operation Ke3Chang Targeted Attacks Against Ministries Of Foreign Affairs](2013/fireeye-operation-ke3chang.pdf) | Dec | FireEye |
-| ["Njrat", The Saga Continues](2013/FTA-1010-njRAT-The-Saga-Continues.pdf) | Dec | Fidelis |
+| ["Njrat" The Saga Continues](2013/FTA-1010-njRAT-The-Saga-Continues.pdf) | Dec | Fidelis |
+| [Quantum of Surveillance: Familiar Actors and Possible False Flags in Syrian Malware Campaigns](2013/quantum_of_surveillance4d.pdf) | Dec | The Citizen Lab |
 
 ### 2012
 

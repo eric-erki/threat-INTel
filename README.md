@@ -12,6 +12,7 @@ Note: If you are looking for every type of publicly available documents and note
 | [APT28: At the center of the storm. Russia strategically evolves its cyber operations](2017/APT28-Center-of-Storm-2017.pdf) | Jan | FireEeye |
 | [APT28 Under the Scope A Journey into Exfiltrating Intelligence and Government Information](2017/Bitdefender_In-depth_analysis_of_APT28_The_Political_Cyber-Espionage.pdf) | Feb | BitDefender |
 | [KingSlayer A Supply chain attack](2017/kingslayer-a-supply-chain-attack.pdf) | Feb | RSA |
+| [Bitter Sweet: Supporters of Mexico's Soda Tax Targeted With NSO Exploit Links](2017/Bitter-Sweet.pdf) | Feb | The Citizen Lab |
 | [Enhanced Analysis of GRIZZLY STEPPE Activity](2017/US-CERT-AR-17-20045_Enhanced_Analysis_of_GRIZZLY_STEPPE_Activity.pdf) | Feb | US-CERT |
 | [Dissecting the APT28 Mac OS X Payload](2017/Bitdefender-Whitepaper-APT-Mac-A4-en-EN-web.pdf) | Feb | Bitdefender |
 | [From Shamoon to StoneDrill](2017/Kaspersky_Report_Shamoon_StoneDrill_final.pdf) | Mar | Kaspersky |
@@ -26,7 +27,6 @@ Note: If you are looking for every type of publicly available documents and note
 |----------------|--------|--------|
 | [Analyzing a New Variant of BlackEnergy 3 Likely Insider-Based Execution](2016/BlackEnergy3_WP_012716_1c.pdf) | Jan | SentinelOne |
 | [Operation Dusty Sky](2016/Clearsky_Operation-DustySky_TLP_WHITE.pdf) | Jan | ClearSky |
-| [Uncovering the Seven Pointed Dagger](2016/Arbor_Uncovering-the-Seven-Pointed-Dagger.pdf) | Jan | Arbor Networks |
 | [Know Your Enemies 2.0: A Primer on Advanced Persistent Threat Groups](2016/ICIT-Brief-Know-Your-Enemies-2.0.pdf) | Feb | ICIT |
 | [Operation Duststorm](2016/Cylance_Op_Dust_Storm_Report.pdf) | Feb | Cylance |
 | [peration Blockbuster](2016/Novetta_Operation-Blockbuster-Report.pdf) | Feb | Novetta |
@@ -38,12 +38,14 @@ Note: If you are looking for every type of publicly available documents and note
 | [Mofang: A politically motivated information stealing adversary](2016/Fox-IT_mofang_threatreport_tlp-white.pdf) | May | FoxIT |
 | [Operation Groundbait:Analysis of a surveillance toolkit](2016/ESET_Operation-Groundbait.pdf) | May | Kaspersky |
 | [APT Case RUAG Technical Report](2016/GovCERTch_Report_Ruag_Espionage_Case.pdf) | May | Melani GovCERT |
+| [Keep Calm and (Dont) Enable Macros: A New Threat Actor Targets UAE Dissidents](2016/Keep-Calm.pdf) | May | The Citizen Lab |
 | [Operation DustySky Part 2](2016/Clearsky_Operation-DustySky2.pdf) | Jun | ClearSky |
 | [Visiting The Bear Den A Journey in the Land of Cyber-Espionage](2016/ESET-Visiting_The_Bear_Den.pdf) | Jun | ESET |
 | [Pacifier APT](2016/Bitdefender_Pacifier-APT.pdf) | Jul | Bitdefender |
 | [Unveiling Patchwork the Copy Paste APT](2016/Cymmetria_Unveiling-Patchwork.pdf) | Jul | Cymmetria |
 | [Operation Manul](2016/EFF_OperationManul.pdf) | Aug | EFF |
 | [Moonsoon - Analysis of an APT Campaign](2016/Forcepoint_Moonsoon08-06-2016.pdf) | Aug | Forcepoint |
+| [Group5: Syria and the Iranian Connection](2016/Group5.pdf) | Aug | The Citizen Lab |
 | [The ProjectSauron APT](2016/Kaspersky_The-ProjectSauron-APT_research_KL.pdf) | Aug | Kaspersky |
 | [Carbanak Oracle Breach](2016/Visa_Oracle-Micros-Compromise.pdf) | Aug | VISA |
 | [Visa Alert and Update on the Oracle Breach](2016/BrianKrebs_Carbanak-Oracle-breach.pdf) | Aug | VISA |
@@ -78,9 +80,11 @@ Note: If you are looking for every type of publicly available documents and note
 | [Tibetan Uprising Day Malware Attacks](2015/Tibetan-Uprising-Day-Malware-Attacks_websitepdf.pdf) | Mar | The Citizen Lab |
 | [Operation Woolen-Goldfish When Kittens Go Phishing](2015/wp-operation-woolen-goldfish.pdf) | Mar | Trend Micro |
 | [Volatile Cedar Threat Intelligence And Research](2015/volatile-cedar-technical-report.pdf) | Mar | Check Point |
+| [Hacking Team Reloaded? US-Based Ethiopian Journalists Again Targeted with Spyware](2015/Hacking-Team-Reloaded-US-Based-Ethiopian-Journalists-Again-Targeted-with-Spyware_websitepdf.pdf) | Mar | The Citizen Lab |
 | [HACKING THE STREET? FIN4 LIKELY PLAYING THE MARKET](2015/rpt-fin4.pdf) | Apr | FireEye |
 | [APT30 And The Mechanics Of A Long-Running Cyber Espionage Operation](2015/rpt-apt30.pdf) | Apr | FireEye |
 | [Sofacy II Same Sofacy, Different Day](2015/cto-tib-20150420-01a.pdf) | Apr | PWC |
+| [China's Great Cannon](2015/ChinasGreatCannon.pdf) | Apr | The Citizen Lab |
 | [CozyDuke](2015/CozyDuke.pdf) | Apr | F-Secure |
 | [Dissecting Linux/Moose The Analysis of a Linux Router-based Worm Hungry for Social Networks](2015/Dissecting-LinuxMoose.pdf) | May | ESET |
 | [Operation Tropic Trooper: Relying On Tried-And-Tested Flaws To Infiltrate Secret Keepers](2015/wp-operation-tropic-trooper.pdf) | May | Trend Micro |
@@ -117,7 +121,10 @@ Note: If you are looking for every type of publicly available documents and note
 | [Unveiling Careto - The Masked Apt](2014/unveilingthemask_v1.0.pdf) | Feb | Kaspersky |
 | [Gathering In The Middle East, Operation Stteam](2014/FTA_1012_STTEAM_Final.pdf) | Feb | Fidelis |
 | [The Monju Incident](2014/The_Monju_Incident.pdf) | Feb | Context |
+| [Hacking Team and the Targeting of Ethiopian Journalists](2014/Hacking-Team-and-the-Targeting-of-Ethiopian-Journalists.pdf) | Feb | The Citizen Lab |
+| [Hacking Team's US Nexus](2014/Hacking-Teams-US-Nexus.pdf) | Mar | The Citizen Lab |
 | [Snake Campaign & Cyber Espionage Toolkit](2014/snake_whitepaper.pdf) | Mar | BAE |
+| [Maliciously Repackaged Psiphon Found](2014/Maliciously-Repackaged-Psiphon.pdf) | Mar | The Citizen Lab |
 | [Deep Panda](AdversaryIntelligenceReport_DeepPanda_0.pdf) | May | Crowdstrike |
 | [Operation Saffron Rose](2014/fireeye-operation-saffron-rose.pdf) | May | FireEye |
 | [Rat In A Jar: A Phishing Campaign Using Unrecom](2014/FTA_1013_RAT_in_a_jar.pdf) | May | Fidelis |
@@ -176,14 +183,15 @@ Note: If you are looking for every type of publicly available documents and note
 | [Dissecting Operation Troy: Cyberespionage In South Korea](2013/dissecting-operation-troy.pdf) | Mar | McAfee |
 | [The Teamspy Story - Abusing Teamviewer In Cyberespionage Campaigns](2013/theteamspystory_final_t2.pdf) | Mar | Kaspersky |
 | [Analysis Of A Plugx Variant (Plugx Version 7.0)](2013/tr-12-circl-plugx-analysis-v1.pdf) | Mar | CIRCL |
-| [You Only Click Twice: Finfisher's Global Proliferation](2013/15-2013-youonlyclicktwice.pdf) | Mar | Citizen Lab |
+| [You Only Click Twice: Finfisher's Global Proliferation](2013/15-2013-youonlyclicktwice.pdf) | Mar | The Citizen Lab |
 | [Apt1: Technical Backstage](2013/RAP002_APT1_Technical_backstage.1.0.pdf) | Mar | itrust |
 | [Safe A Targeted Threat](2013/Safe-a-targeted-threat.pdf) | Mar | Trend Micro |
 | [Winnti: More Than Just A Game](2013/winnti-more-than-just-a-game-130410.pdf) | Apr | Kaspersky |
+| [For Their Eyes Only: The Commercialization of Digital Spying](2013/fortheireyesonly.pdf ) | Apr | The Citizen Lab |
 | [Analysis Of A Stage 3 Miniduke Sample](2013/circl-analysisreport-miniduke-stage3-public.pdf) | May | CIRCL |
 | [Operation Hangover - Unveiling An Indian Cyberattack Infrastructure](2013/NS-Unveiling-an-Indian-Cyberattack-Infrastructure_FINAL_Web.pdf) | May | Norman |
 | [The Chinese Malware Complexes: The Maudi Surveillance Operation](2013/NormanShark-MaudiOperation.pdf) | Jun | Norman |
-| [A Call To Harm: New Malware Attacks Target The Syrian Opposition](2013/19-2013-acalltoharm.pdf) | Jun | Citizen Lab |
+| [A Call To Harm: New Malware Attacks Target The Syrian Opposition](2013/19-2013-acalltoharm.pdf) | Jun | The Citizen Lab |
 | [Crude Faux: An Analysis Of Cyber Conflict Within The Oil & Gas Industries](2013/2013-9.pdf) | Jun | Cerias |
 | [Njrat Uncovered](2013/fta-1009---njrat-uncovered-1.pdf) | Jun | Fidelis |
 | [The Nettraveler (Aka Travnet)](2013/kaspersky-the-net-traveler-part1-final.pdf) | Jun | Kaspersky |
@@ -213,9 +221,9 @@ Note: If you are looking for every type of publicly available documents and note
 | [Have I Got Newsforyou: Analysis Of Flamer C&C Server](2012/w32_flamer_newsforyou.pdf) | May | Symantec |
 | [Ixeshe An Apt Campaign](2012/wp_ixeshe.pdf) | May | Trend Micro |
 | [Pest Control: Taming The Rats](2012/PEST-CONTROL.pdf) | Jun | Matasano |
-| [From Bahrain With Love: Finfisher Spy Kit Exposed?](2012/From-Bahrain-With-Love-FinFishers-Spy-Kit-Exposed.pdf) | Jul | Citizen Lab |
-| [Recent Observations In Tibet-Related Information Operations: Advanced Social Engineering For The Distribution Of Lurk Malware](2012/Tibet_Lurk.pdf) | Jul | Citizen Lab |
-| [Iexpl0Re Rat](2012/IEXPL0RE_RAT.pdf) | Aug | Citizen Lab |
+| [From Bahrain With Love: Finfisher Spy Kit Exposed?](2012/From-Bahrain-With-Love-FinFishers-Spy-Kit-Exposed.pdf) | Jul | The Citizen Lab |
+| [Recent Observations In Tibet-Related Information Operations: Advanced Social Engineering For The Distribution Of Lurk Malware](2012/Tibet_Lurk.pdf) | Jul | The Citizen Lab |
+| [Iexpl0Re Rat](2012/IEXPL0RE_RAT.pdf) | Aug | The Citizen Lab |
 | [Gauss: Abnormal Distribution](2012/kaspersky-lab-gauss.pdf) | Aug | Kaspersky |
 | [The Voho Campaign: An In Depth Analysis](2012/VOHO_WP_FINAL_READY-FOR-Publication-09242012_AC.pdf) | Aug | RSA |
 | [The Elderwood Project](2012/the-elderwood-project.pdf) | Sep | Symantec |

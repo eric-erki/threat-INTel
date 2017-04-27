@@ -107,6 +107,7 @@ Note: If you are looking for every type of publicly available documents and note
 | [Butterfly: Corporate Spies Out For Financial Gain](2015/butterfly-corporate-spies-out-for-financial-gain.pdf) | Jul | Symantec |
 | [RSA Research Terracotta VPN: Enabler Of Advanced Threat Anonymity](2015/Terracotta-VPN-Report-Final-8-3.pdf) | Aug | RSA |
 | [What we know about the South Korea NIS's use of Hacking Team's RCS](2015/What-we-know-about-the-South-Korea-NIS.pdf) | Aug | The Citizen Lab |
+| [London Calling: Two-Factor Authentication Phishing From Iran](2015/Two-Factor-Authentication-Phishing-From-Iran.pdf) | Aug | The Citizen Lab |
 | [THE DUKES: 7 years of Russian cyberespionage](2015/dukes_whitepaper.pdf) | Sep | F-Secure |
 | [Pay No Attention to the Server Behind the Proxy: Mapping FinFisher's Continuing Proliferation](2015/Mapping-FinFishers-Continuing-Proliferation.pdf) | Oct | The Citizen Lab |
 | [Targeted Malware Attacks against NGO Linked to Attacks on Burmese Government Websites](2015/Targeted-Malware-Attacks.pdf) | Oct | The Citizen Lab |
@@ -236,6 +237,7 @@ Note: If you are looking for every type of publicly available documents and note
 | [Recent Observations In Tibet-Related Information Operations: Advanced Social Engineering For The Distribution Of Lurk Malware](2012/Tibet_Lurk.pdf) | Jul | The Citizen Lab |
 | [Iexpl0Re Rat](2012/IEXPL0RE_RAT.pdf) | Aug | The Citizen Lab |
 | [Gauss: Abnormal Distribution](2012/kaspersky-lab-gauss.pdf) | Aug | Kaspersky |
+| [The SmartPhone Who Loved Me: FinFisher Goes Mobile](2012/The-SmartPhone-Who-Loved-Me-FinFisher-Goes-Mobile.pdf) | Aug | The Citizen Lab |
 | [The Voho Campaign: An In Depth Analysis](2012/VOHO_WP_FINAL_READY-FOR-Publication-09242012_AC.pdf) | Aug | RSA |
 | [The Elderwood Project](2012/the-elderwood-project.pdf) | Sep | Symantec |
 | [Backdoors are Forever: Hacking Team and the Targeting of Dissent](2012/Backdoors-are-Forever-Hacking-Team-and-the-Targeting-of-Dissent_websitepdf.pdf) | Oct | The Citizen Lab |

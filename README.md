@@ -45,7 +45,7 @@ Note: If you are looking for every type of publicly available documents and note
 | [Pacifier APT](2016/Bitdefender_Pacifier-APT.pdf) | Jul | Bitdefender |
 | [Unveiling Patchwork the Copy Paste APT](2016/Cymmetria_Unveiling-Patchwork.pdf) | Jul | Cymmetria |
 | [Operation Manul](2016/EFF_OperationManul.pdf) | Aug | EFF |
-| [Moonsoon - Analysis of an APT Campaign](2016/Forcepoint_Moonsoon08-06-2016.pdf) | Aug | Forcepoint |
+| [Monsoon - Analysis of an APT Campaign](2016/Forcepoint_Moonsoon08-06-2016.pdf) | Aug | Forcepoint |
 | [Group5: Syria and the Iranian Connection](2016/Group5.pdf) | Aug | The Citizen Lab |
 | [The ProjectSauron APT](2016/Kaspersky_The-ProjectSauron-APT_research_KL.pdf) | Aug | Kaspersky |
 | [Carbanak Oracle Breach](2016/Visa_Oracle-Micros-Compromise.pdf) | Aug | VISA |
@@ -95,6 +95,7 @@ Note: If you are looking for every type of publicly available documents and note
 | [Analysis On APT-To-Be Attack That Focusing On China's Government Agency](2015/ANALYSIS-ON-APT-TO-BE-ATTACK-THAT-FOCUSING-ON-CHINAS-GOVERNMENT-AGENCY-.pdf) | May | Antiy CERT |
 | [The Msnmm Campaigns: The Earliest Naikon APT Campaigns](2015/TheNaikonAPT-MsnMM2.pdf) | May | Kaspersky |
 | [Operation Oil Tanker: The Phantom Menace](2015/oil-tanker-en.pdf) | May | PandaLabs |
+| [Thamar Reservoir An Iranian cyber - attack campaign against targets in the Middle East](2015/Thamar-Reservoir-public1.pdf) | Jun | ClearSky |
 | [Duqu 2.0: A Comparison To Duqu](2015/duqu2_crysys.pdf) | Jun | CrySyS Lab |
 | [Operation Lotusblossom](2015/unit42-operation-lotus-blossom.pdf) | Jun | PaloAlto |
 | [An Iranian Cyber-Attack Campaign Against Targets In The Middle East](2015/Thamar-Reservoir.pdf) | Jun | ClearSky |
@@ -109,10 +110,13 @@ Note: If you are looking for every type of publicly available documents and note
 | [What we know about the South Korea NIS's use of Hacking Team's RCS](2015/What-we-know-about-the-South-Korea-NIS.pdf) | Aug | The Citizen Lab |
 | [London Calling: Two-Factor Authentication Phishing From Iran](2015/Two-Factor-Authentication-Phishing-From-Iran.pdf) | Aug | The Citizen Lab |
 | [THE DUKES: 7 years of Russian cyberespionage](2015/dukes_whitepaper.pdf) | Sep | F-Secure |
+| [The Spy Kittens Are Back: Rocket Kitten 2](2015/rocket-kitten-part-2-en.pdf) | Sep | Trend Micro |
 | [Pay No Attention to the Server Behind the Proxy: Mapping FinFisher's Continuing Proliferation](2015/Mapping-FinFishers-Continuing-Proliferation.pdf) | Oct | The Citizen Lab |
 | [Targeted Malware Attacks against NGO Linked to Attacks on Burmese Government Websites](2015/Targeted-Malware-Attacks.pdf) | Oct | The Citizen Lab |
 | [RUSSIAN FINANCIAL CYBERCRIME: HOW IT WORKS](2015/Kaspersky_Lab_cybercrime_underground_report_eng_v1_0.pdf) | Nov | Kaspersky |
 | [CopyKittens Attack Group](2015/Minerva_Clearsky_CopyKittens11-23-15.pdf) | Nov | ClearSky |
+| [ROCKET KITTEN: A Campaign with 9 lives](2015/rocket-kitten-report.pdf) | Nov | Check Point |
+| [Operation Iron Tiger: Exploring Chinese Cyber-Espionage Attacks on United States Defense Contractors](2015/2015_12_wp_operation_iron_tiger.pdf) | Dec | Trend Micro |
 
 ### 2014
 

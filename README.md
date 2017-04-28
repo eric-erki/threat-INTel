@@ -21,6 +21,7 @@ Note: If you are looking for every type of publicly available documents and note
 | [Appendix B: Moonlight Maze Technical Report](2017/Penquins_Moonlit_Maze_AppendixB.pdf) | Apr | Kaspersky |
 | [Callisto Group](2017/callisto-group.pdf) | Apr | F-Secure |
 | [McAfee Labs Threats Report](2017/rp-quarterly-threats-mar-2017.pdf) | Apr | McAfee |
+| [Intrusions Affecting Multiple Victims Across Multiple Sectors](2017/IR-ALERT-MED-17-093-01C-Intrusions_Affecting_Multiple_Victims_Across_Multiple_Sectors.pdf) | Apr | US-CERT |
 
 ### 2016
 

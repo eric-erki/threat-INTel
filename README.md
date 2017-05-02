@@ -112,6 +112,7 @@ Note: If you are looking for every type of publicly available documents and note
 | [London Calling: Two-Factor Authentication Phishing From Iran](2015/Two-Factor-Authentication-Phishing-From-Iran.pdf) | Aug | The Citizen Lab |
 | [THE DUKES: 7 years of Russian cyberespionage](2015/dukes_whitepaper.pdf) | Sep | F-Secure |
 | [The Spy Kittens Are Back: Rocket Kitten 2](2015/rocket-kitten-part-2-en.pdf) | Sep | Trend Micro |
+| [Proactive Threat Identification Neutralizes Remote Access Trojan Efficacy](2015/threat-identification.pdf) | Sep | Recorded Future |
 | [Pay No Attention to the Server Behind the Proxy: Mapping FinFisher's Continuing Proliferation](2015/Mapping-FinFishers-Continuing-Proliferation.pdf) | Oct | The Citizen Lab |
 | [Targeted Malware Attacks against NGO Linked to Attacks on Burmese Government Websites](2015/Targeted-Malware-Attacks.pdf) | Oct | The Citizen Lab |
 | [RUSSIAN FINANCIAL CYBERCRIME: HOW IT WORKS](2015/Kaspersky_Lab_cybercrime_underground_report_eng_v1_0.pdf) | Nov | Kaspersky |

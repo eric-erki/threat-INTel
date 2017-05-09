@@ -22,6 +22,7 @@ Note: If you are looking for every type of publicly available documents and note
 | [Callisto Group](2017/callisto-group.pdf) | Apr | F-Secure |
 | [McAfee Labs Threats Report](2017/rp-quarterly-threats-mar-2017.pdf) | Apr | McAfee |
 | [Intrusions Affecting Multiple Victims Across Multiple Sectors](2017/IR-ALERT-MED-17-093-01C-Intrusions_Affecting_Multiple_Victims_Across_Multiple_Sectors.pdf) | Apr | US-CERT |
+| [Two Years of Pawn Storm Examining an Increasingly Relevant Threat](2017/wp-two-years-of-pawn-storm.pdf) | May | Trend Micro |
 
 ### 2016
 

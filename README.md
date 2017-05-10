@@ -16,6 +16,8 @@ Note: If you are looking for every type of publicly available documents and note
 | [Bitter Sweet: Supporters of Mexico's Soda Tax Targeted With NSO Exploit Links](2017/Bitter-Sweet.pdf) | Feb | The Citizen Lab |
 | [Enhanced Analysis of GRIZZLY STEPPE Activity](2017/US-CERT-AR-17-20045_Enhanced_Analysis_of_GRIZZLY_STEPPE_Activity.pdf) | Feb | US-CERT |
 | [Dissecting the APT28 Mac OS X Payload](2017/Bitdefender-Whitepaper-APT-Mac-A4-en-EN-web.pdf) | Feb | Bitdefender |
+| [Read The Manual A guide to the RTM Banking Trojan](2017/Read-The-Manual.pdf) | Feb | ESET |
+| [Trends in Android Ransomware](2017/ESET_Trends_2017_in_Android_Ransomware.pdf) | Feb | ESET |
 | [From Shamoon to StoneDrill](2017/Kaspersky_Report_Shamoon_StoneDrill_final.pdf) | Mar | Kaspersky |
 | [Lazarus Under the Hood](2017/Lazarus_Under_The_Hood_PDF_final.pdf) | Apr | Kaspersky |
 | [Appendix B: Moonlight Maze Technical Report](2017/Penquins_Moonlit_Maze_AppendixB.pdf) | Apr | Kaspersky |
@@ -23,6 +25,7 @@ Note: If you are looking for every type of publicly available documents and note
 | [McAfee Labs Threats Report](2017/rp-quarterly-threats-mar-2017.pdf) | Apr | McAfee |
 | [Intrusions Affecting Multiple Victims Across Multiple Sectors](2017/IR-ALERT-MED-17-093-01C-Intrusions_Affecting_Multiple_Victims_Across_Multiple_Sectors.pdf) | Apr | US-CERT |
 | [Two Years of Pawn Storm Examining an Increasingly Relevant Threat](2017/wp-two-years-of-pawn-storm.pdf) | May | Trend Micro |
+| [Sednit adds two zero-day exploits using Trumps attack on Syria as a decoy](2017/Sednit.eset.2017.pdf) | May | ESET |
 
 ### 2016
 
@@ -39,7 +42,7 @@ Note: If you are looking for every type of publicly available documents and note
 | [Between Hong Kong and Burma: Tracking UP007 and SLServer Espionage Campaigns](2016/Between-Hong-Kong-and-Burma.pdf) | Apr | The Citizen Lab |
 | [PLATINUM Targeted attacks in South and Southeast Asia](2016/Microsoft_Targeted-attacks-in-South-and-Southeast-Asia.pdf) | Apr | Microsoft |
 | [Mofang: A politically motivated information stealing adversary](2016/Fox-IT_mofang_threatreport_tlp-white.pdf) | May | FoxIT |
-| [Operation Groundbait:Analysis of a surveillance toolkit](2016/ESET_Operation-Groundbait.pdf) | May | Kaspersky |
+| [Operation Groundbait:Analysis of a surveillance toolkit](2016/ESET_Operation-Groundbait.pdf) | May | ESET |
 | [APT Case RUAG Technical Report](2016/GovCERTch_Report_Ruag_Espionage_Case.pdf) | May | Melani GovCERT |
 | [Keep Calm and (Dont) Enable Macros: A New Threat Actor Targets UAE Dissidents](2016/Keep-Calm.pdf) | May | The Citizen Lab |
 | [Operation DustySky Part 2](2016/Clearsky_Operation-DustySky2.pdf) | Jun | ClearSky |

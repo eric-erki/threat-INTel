@@ -26,6 +26,7 @@ Note: If you are looking for every type of publicly available documents and note
 | [Intrusions Affecting Multiple Victims Across Multiple Sectors](2017/IR-ALERT-MED-17-093-01C-Intrusions_Affecting_Multiple_Victims_Across_Multiple_Sectors.pdf) | Apr | US-CERT |
 | [Two Years of Pawn Storm Examining an Increasingly Relevant Threat](2017/wp-two-years-of-pawn-storm.pdf) | May | Trend Micro |
 | [Sednit adds two zero-day exploits using Trumps attack on Syria as a decoy](2017/Sednit.eset.2017.pdf) | May | ESET |
+| [Evolution of the GOLD EVERGREEN Threat Group](2017/Evolution_of_the_GOLD_EVERGREEN_ThreatGroup_SecureWorks.pdf) | May | SecureWorks |
 
 ### 2016
 

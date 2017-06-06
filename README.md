@@ -27,6 +27,12 @@ Note: If you are looking for every type of publicly available documents and note
 | [Two Years of Pawn Storm Examining an Increasingly Relevant Threat](2017/wp-two-years-of-pawn-storm.pdf) | May | Trend Micro |
 | [Sednit adds two zero-day exploits using Trumps attack on Syria as a decoy](2017/Sednit.eset.2017.pdf) | May | ESET |
 | [Evolution of the GOLD EVERGREEN Threat Group](2017/Evolution_of_the_GOLD_EVERGREEN_ThreatGroup_SecureWorks.pdf) | May | SecureWorks |
+| [Bachosens: Highly-skilled petty cyber criminal with lofty ambitions targeting large organizations](2017/Bachosens.pdf) | May | Symantec |
+| [Lazarus: History of mysterious group behind infamous cyber attacks](2017/Lazarus.pdf) | May | Symantec |
+| [Operation Bachosens: A detailed look into a long-running cyber crime campaign](2017/Operation_Bachosens.pdf) | May | Symantec |
+| [Sednit adds two zero-day exploits using Trumps attack on Syria as a decoy](2017/Sednit.pdf) | May | ESET |
+| [Tainted Leaks: Disinformation and Phishing With a Russian Nexus](2017/Tainted_Leaks.pdf) | May | The Citizen Lab |
+
 
 ### 2016
 

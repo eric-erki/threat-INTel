@@ -32,6 +32,8 @@ Note: If you are looking for every type of publicly available documents and note
 | [Operation Bachosens: A detailed look into a long-running cyber crime campaign](2017/Operation_Bachosens.pdf) | May | Symantec |
 | [Sednit adds two zero-day exploits using Trumps attack on Syria as a decoy](2017/Sednit.pdf) | May | ESET |
 | [Tainted Leaks: Disinformation and Phishing With a Russian Nexus](2017/Tainted_Leaks.pdf) | May | The Citizen Lab |
+| [Lazarus Arisen - full report](2017/Group-IB_on_LAZARUS.pdf) | May | Group IB |
+| [Lazarus Arisen - article](2017/LAZARUS_ARISEN.pdf) | May | Group IB |
 
 
 ### 2016

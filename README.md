@@ -34,6 +34,7 @@ Note: If you are looking for every type of publicly available documents and note
 | [Tainted Leaks: Disinformation and Phishing With a Russian Nexus](2017/Tainted_Leaks.pdf) | May | The Citizen Lab |
 | [Lazarus Arisen - full report](2017/Group-IB_on_LAZARUS.pdf) | May | Group IB |
 | [Lazarus Arisen - article](2017/LAZARUS_ARISEN.pdf) | May | Group IB |
+| [CrashOverride: Analysis of the Threat to Electric Grid Operations](2017/CrashOverride-01.pdf) | Jun | Dragos |
 
 
 ### 2016

@@ -35,6 +35,9 @@ Note: If you are looking for every type of publicly available documents and note
 | [Lazarus Arisen - full report](2017/Group-IB_on_LAZARUS.pdf) | May | Group IB |
 | [Lazarus Arisen - article](2017/LAZARUS_ARISEN.pdf) | May | Group IB |
 | [CrashOverride: Analysis of the Threat to Electric Grid Operations](2017/CrashOverride-01.pdf) | Jun | Dragos |
+| [Behind the CARBANAK Backdoor](2017/Behind_the_CARBANAK_Backdoor.pdf) | Jun | FireEye |
+| [Bahamut Pursuing a Cyber Espionage Actor in the Middle East](2017/bellingcat.pdf) | Jun | Collin and Claudio |
+| [WIN32/INDUSTROYER A new threat for industrial control systems](2017/Win32_Industroyer.pdf) | Jun | ESET |
 
 
 ### 2016
@@ -51,12 +54,15 @@ Note: If you are looking for every type of publicly available documents and note
 | [The Four Element Sword Engagement](2016/Arbor_The-Four-Element-Sword-Engagement.pdf) | Apr | Arbor Networks |
 | [Between Hong Kong and Burma: Tracking UP007 and SLServer Espionage Campaigns](2016/Between-Hong-Kong-and-Burma.pdf) | Apr | The Citizen Lab |
 | [PLATINUM Targeted attacks in South and Southeast Asia](2016/Microsoft_Targeted-attacks-in-South-and-Southeast-Asia.pdf) | Apr | Microsoft |
+| [Follow the money: Dissecting the operations of the cyber crime group FIN6](2016/rpt-fin6.pdf) | Apr | FireEye |
 | [Mofang: A politically motivated information stealing adversary](2016/Fox-IT_mofang_threatreport_tlp-white.pdf) | May | FoxIT |
 | [Operation Groundbait:Analysis of a surveillance toolkit](2016/ESET_Operation-Groundbait.pdf) | May | ESET |
 | [APT Case RUAG Technical Report](2016/GovCERTch_Report_Ruag_Espionage_Case.pdf) | May | Melani GovCERT |
 | [Keep Calm and (Dont) Enable Macros: A New Threat Actor Targets UAE Dissidents](2016/Keep-Calm.pdf) | May | The Citizen Lab |
 | [Operation DustySky Part 2](2016/Clearsky_Operation-DustySky2.pdf) | Jun | ClearSky |
 | [Visiting The Bear Den A Journey in the Land of Cyber-Espionage](2016/ESET-Visiting_The_Bear_Den.pdf) | Jun | ESET |
+| [REDLINE DRAWN China recalculates its use of cyber espionage](2016/rpt-china-espionage.pdf) | Jun | FireEye |
+in the Middle East
 | [Pacifier APT](2016/Bitdefender_Pacifier-APT.pdf) | Jul | Bitdefender |
 | [Unveiling Patchwork the Copy Paste APT](2016/Cymmetria_Unveiling-Patchwork.pdf) | Jul | Cymmetria |
 | [Operation Manul](2016/EFF_OperationManul.pdf) | Aug | EFF |

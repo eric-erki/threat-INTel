@@ -38,6 +38,7 @@ Note: If you are looking for every type of publicly available documents and note
 | [Behind the CARBANAK Backdoor](2017/Behind_the_CARBANAK_Backdoor.pdf) | Jun | FireEye |
 | [Bahamut Pursuing a Cyber Espionage Actor in the Middle East](2017/bellingcat.pdf) | Jun | Collin and Claudio |
 | [WIN32/INDUSTROYER A new threat for industrial control systems](2017/Win32_Industroyer.pdf) | Jun | ESET |
+| [FIN10 Anatomy of a Cyber Extortion Operation](2017/rpt-fin10.pdf) | Jun | FireEye |
 
 
 ### 2016

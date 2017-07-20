@@ -39,6 +39,9 @@ Note: If you are looking for every type of publicly available documents and note
 | [Bahamut Pursuing a Cyber Espionage Actor in the Middle East](2017/bellingcat.pdf) | Jun | Collin and Claudio |
 | [WIN32/INDUSTROYER A new threat for industrial control systems](2017/Win32_Industroyer.pdf) | Jun | ESET |
 | [FIN10 Anatomy of a Cyber Extortion Operation](2017/rpt-fin10.pdf) | Jun | FireEye |
+| [Everything we know about GoldenEye](2017/Bitdefender-Whitepaper-GoldenEye.pdf) | Jul | BitDefender |
+| [Living off the land and fileless attack techniques](2017/istr-living-off-the-land-and-fileless-attack-techniques-en.pdf) | Jul | Symantec |
+| [State of Cybersecurity in Asia-Pacific](2017/the-state-of-cybersecurity-in-asia-pacific.pdf) | Jul | PaloAlto |
 
 
 ### 2016

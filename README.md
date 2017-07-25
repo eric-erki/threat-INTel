@@ -42,6 +42,7 @@ Note: If you are looking for every type of publicly available documents and note
 | [Everything we know about GoldenEye](2017/Bitdefender-Whitepaper-GoldenEye.pdf) | Jul | BitDefender |
 | [Living off the land and fileless attack techniques](2017/istr-living-off-the-land-and-fileless-attack-techniques-en.pdf) | Jul | Symantec |
 | [State of Cybersecurity in Asia-Pacific](2017/the-state-of-cybersecurity-in-asia-pacific.pdf) | Jul | PaloAlto |
+| [Operation Wilted Tulip](2017/Operation_Wilted_Tulip.pdf) | Jul | ClearSky & Trend Micro |
 
 
 ### 2016

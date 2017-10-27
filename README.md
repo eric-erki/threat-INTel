@@ -46,6 +46,7 @@ Note: If you are looking for every type of publicly available documents and note
 | [Intelligence Games in the Power Grid](2017/intelligence-games-in-the-power-grid-2016.pdf) | Sep | Treadstone 71 |
 | [Hack ATM with an anti-hacking feature and walk away with $1M in 2 minutes](2017/Hack-ATM-with-an-anti-hacking-feature-and-walk-away-with-1M-in-2-minutes.pdf) | Oct | Embedi |
 | [Remote Control Interloper: Analyzing New Chinese htpRAT Malware Attacks Against ASEAN](2017/RiskIQ-htpRAT-Malware-Attacks.pdf) | Oct | RISKIQ |
+| [Investigation: WannaCry cyber attack and the NHS](2017/Investigation-WannaCry-cyber-attack-and-the-NHS.pdf) | Oct | National Audit Office |
 
 
 ### 2016

@@ -47,6 +47,10 @@ Note: If you are looking for every type of publicly available documents and note
 | [Hack ATM with an anti-hacking feature and walk away with $1M in 2 minutes](2017/Hack-ATM-with-an-anti-hacking-feature-and-walk-away-with-1M-in-2-minutes.pdf) | Oct | Embedi |
 | [Remote Control Interloper: Analyzing New Chinese htpRAT Malware Attacks Against ASEAN](2017/RiskIQ-htpRAT-Malware-Attacks.pdf) | Oct | RISKIQ |
 | [Investigation: WannaCry cyber attack and the NHS](2017/Investigation-WannaCry-cyber-attack-and-the-NHS.pdf) | Oct | National Audit Office |
+| [The CARBANAK/FIN7 Syndicate a historical overview of an evolving threat](2017/the-carbanak-fin7-syndicate.pdf) | Nov | RSA |
+| [The Shadows of Ghosts Inside the Response of a Unique CARBANAK Intrusion](2017/the-shadows-of-ghosts-carbanak-report.pdf) | Nov | RSA |
+| [Turla group using Neuron and Nautilus tools alongside Snake malware](2017/Turla_group_using_Neuron_and_Nautilus_tools_alongside_Snake_malware_1.pdf) | Nov | UK NCSC |
+| [Charming Kitten](2017/Charming_Kitten_2017.pdf) | Dec | ClearSky |
 
 
 ### 2016

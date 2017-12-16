@@ -51,6 +51,7 @@ Note: If you are looking for every type of publicly available documents and note
 | [The Shadows of Ghosts Inside the Response of a Unique CARBANAK Intrusion](2017/the-shadows-of-ghosts-carbanak-report.pdf) | Nov | RSA |
 | [Turla group using Neuron and Nautilus tools alongside Snake malware](2017/Turla_group_using_Neuron_and_Nautilus_tools_alongside_Snake_malware_1.pdf) | Nov | UK NCSC |
 | [Charming Kitten](2017/Charming_Kitten_2017.pdf) | Dec | ClearSky |
+| [TRISIS Malware Analysis of Safety System Targeted Malware](2017/TRISIS-01.pdf) | Dec | Dragos |
 
 
 ### 2016

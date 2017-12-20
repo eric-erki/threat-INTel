@@ -52,6 +52,7 @@ Note: If you are looking for every type of publicly available documents and note
 | [Turla group using Neuron and Nautilus tools alongside Snake malware](2017/Turla_group_using_Neuron_and_Nautilus_tools_alongside_Snake_malware_1.pdf) | Nov | UK NCSC |
 | [Charming Kitten](2017/Charming_Kitten_2017.pdf) | Dec | ClearSky |
 | [TRISIS Malware Analysis of Safety System Targeted Malware](2017/TRISIS-01.pdf) | Dec | Dragos |
+| [North Korea Bitten by Bitcoin Bug](2017/pfpt-us-wp-north-korea-bitten-by-bitcoin-bug.pdf) | Dec | Proofpoint |
 
 
 ### 2016

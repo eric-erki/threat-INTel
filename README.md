@@ -4,11 +4,17 @@ Archive of publicly available threat/cybercrime INTel reports (mostly APT Report
 
 Note: If you are looking for every type of publicly available documents and notes related to APTs have a look at [APTnotes](https://github.com/kbandla/APTnotes) and [aptnotes](https://github.com/aptnotes/data). Unfortunately the way they store and sort their data doesn't work for me anymore.
 
+### 2018
+
+| Title | Month | Source |
+|----------------|--------|--------|
+| [Dark Caracal: Cyber-espionage at a Global Scale](2018/Lookout_Dark-Caracal_srr_20180118_us_v.1.0.pdf) | Jan | Lookout & EFF |
+
 ### 2017
 
 | Title | Month | Source |
 |----------------|--------|--------|
-| [APT28: A Window into Russias Cyber Espionage Operations?](2017/rpt-apt28.pdf) | Jan | FireEye |
+| [APT28: A Window into Russias Cyber Espionage Operations](2017/rpt-apt28.pdf) | Jan | FireEye |
 | [APT28: At the center of the storm. Russia strategically evolves its cyber operations](2017/APT28-Center-of-Storm-2017.pdf) | Jan | FireEeye |
 | [APT28 Under the Scope A Journey into Exfiltrating Intelligence and Government Information](2017/Bitdefender_In-depth_analysis_of_APT28_The_Political_Cyber-Espionage.pdf) | Feb | BitDefender |
 | [KingSlayer A Supply chain attack](2017/kingslayer-a-supply-chain-attack.pdf) | Feb | RSA |

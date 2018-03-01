@@ -9,6 +9,8 @@ Note: If you are looking for every type of publicly available documents and note
 | Title | Month | Source |
 |----------------|--------|--------|
 | [Dark Caracal: Cyber-espionage at a Global Scale](2018/Lookout_Dark-Caracal_srr_20180118_us_v.1.0.pdf) | Jan | Lookout & EFF |
+| [International Security and Estonia](2018/raport-2018-ENG-web.pdf) | Feb | Estonian Foreign Intelligence Service |
+| [APT37 Reaper: The Overlooked North Korean Actor](2018/rpt_APT37.pdf) | Feb | FireEye |
 
 ### 2017
 
@@ -25,6 +27,7 @@ Note: If you are looking for every type of publicly available documents and note
 | [Read The Manual A guide to the RTM Banking Trojan](2017/Read-The-Manual.pdf) | Feb | ESET |
 | [Trends in Android Ransomware](2017/ESET_Trends_2017_in_Android_Ransomware.pdf) | Feb | ESET |
 | [From Shamoon to StoneDrill](2017/Kaspersky_Report_Shamoon_StoneDrill_final.pdf) | Mar | Kaspersky |
+| [Carbon Paper: Peering into Turlas second stage backdoor](2017/ESET_Carbon-Paper-Peering-into-Turlas-second-stage-backdoor.pdf) | Mar | ESET |
 | [Lazarus Under the Hood](2017/Lazarus_Under_The_Hood_PDF_final.pdf) | Apr | Kaspersky |
 | [Appendix B: Moonlight Maze Technical Report](2017/Penquins_Moonlit_Maze_AppendixB.pdf) | Apr | Kaspersky |
 | [Callisto Group](2017/callisto-group.pdf) | Apr | F-Secure |
@@ -45,21 +48,28 @@ Note: If you are looking for every type of publicly available documents and note
 | [Bahamut Pursuing a Cyber Espionage Actor in the Middle East](2017/bellingcat.pdf) | Jun | Collin and Claudio |
 | [WIN32/INDUSTROYER A new threat for industrial control systems](2017/Win32_Industroyer.pdf) | Jun | ESET |
 | [FIN10 Anatomy of a Cyber Extortion Operation](2017/rpt-fin10.pdf) | Jun | FireEye |
+| [Detecting Lateral Movement through Tracking Event Logs](2017/20170612ac-ir_research_en.1.pdf) | Jun | JPCERT |
 | [Bronze Buttler](2017/SecureWorksBronzeButlerReport.pdf) | Jun | SecureWorks |
+| [OceanLotus Blossoms: Mass Digital Surveillance andAttacks Targeting ASEAN, Asian Nations, the Media, HumanRights Groups, and Civil Society](2017/Volexity_OceanLotus-Mass-Digital-Surveillance-Targeting-ASEAN-Media.pdf) | Jun | Volexity |
+| [ChessMasters New Strategy: Evolving Tools and Tactics](2017/TrendMicro_ChessMasters-New-Strategy-Evolving-Tools-Tactics.pdf) | Jun | Trend Micro |
 | [Everything we know about GoldenEye](2017/Bitdefender-Whitepaper-GoldenEye.pdf) | Jul | BitDefender |
+| [CYBERATTACKS AGAINST UKRAINIAN ICS](2017/EBOOK_CYBERATTACKS-AGAINST-UKRAINIAN-ICS.pdf) | Jul | Sentryo |
 | [Living off the land and fileless attack techniques](2017/istr-living-off-the-land-and-fileless-attack-techniques-en.pdf) | Jul | Symantec |
 | [State of Cybersecurity in Asia-Pacific](2017/the-state-of-cybersecurity-in-asia-pacific.pdf) | Jul | PaloAlto |
 | [Operation Wilted Tulip](2017/Operation_Wilted_Tulip.pdf) | Jul | ClearSky & Trend Micro |
+| [OilRig Deploys ALMA Communicator - DNS TunnelingTrojan](2017/PaloAlto_OilRig-Deploys-ALMA-DNS-Tunneling-Trojan.pdf) | Aug | Palo Alto |
 | [Intelligence Games in the Power Grid](2017/intelligence-games-in-the-power-grid-2016.pdf) | Sep | Treadstone 71 |
 | [Hack ATM with an anti-hacking feature and walk away with $1M in 2 minutes](2017/Hack-ATM-with-an-anti-hacking-feature-and-walk-away-with-1M-in-2-minutes.pdf) | Oct | Embedi |
 | [Remote Control Interloper: Analyzing New Chinese htpRAT Malware Attacks Against ASEAN](2017/RiskIQ-htpRAT-Malware-Attacks.pdf) | Oct | RISKIQ |
 | [Investigation: WannaCry cyber attack and the NHS](2017/Investigation-WannaCry-cyber-attack-and-the-NHS.pdf) | Oct | National Audit Office |
+| [Tracking Subaat: Targeted Phishing Attack Leads toThreat Actors Repository](2017/PaloAlto_Tracking-Subaat-Phishing-Leads-Threat-Actors-Repository.pdf) | Oct | Palo Alto |
 | [The CARBANAK/FIN7 Syndicate a historical overview of an evolving threat](2017/the-carbanak-fin7-syndicate.pdf) | Nov | RSA |
 | [The Shadows of Ghosts Inside the Response of a Unique CARBANAK Intrusion](2017/the-shadows-of-ghosts-carbanak-report.pdf) | Nov | RSA |
 | [Turla group using Neuron and Nautilus tools alongside Snake malware](2017/Turla_group_using_Neuron_and_Nautilus_tools_alongside_Snake_malware_1.pdf) | Nov | UK NCSC |
 | [Charming Kitten](2017/Charming_Kitten_2017.pdf) | Dec | ClearSky |
 | [TRISIS Malware Analysis of Safety System Targeted Malware](2017/TRISIS-01.pdf) | Dec | Dragos |
 | [North Korea Bitten by Bitcoin Bug](2017/pfpt-us-wp-north-korea-bitten-by-bitcoin-bug.pdf) | Dec | Proofpoint |
+| [Attackers Deploy New ICS Attack Framework TRITON and Cause Operational Disruption to Critical Infrastructure](2017/Fireeye_ICS-Attack-Framework-TRITON.pdf) | Dec | FireEye |
 
 
 ### 2016

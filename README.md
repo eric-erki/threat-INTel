@@ -8,11 +8,16 @@ Note: If you are looking for every type of publicly available documents and note
 
 | Title | Month | Source |
 |----------------|--------|--------|
+| [DRAGONFISH delivers new form of Elise malware](2018/Accenture-Security-Dragonfish-Threat-Analysis.pdf) | Jan | Accenture |
+| [Diplomats in Eastern Europe bitten by a Turla mosquito](2018/ESET_Turla_Mosquito.pdf) | Jan | ESET |
+| [Iran's Cyber Threat: Espionage Sabotage and Revenge](2018/Iran_Cyber_Final_Full_v2.pdf) | Jan | Carnegie Endowment |
+| [Turla group update Neuron malware](2018/Turla_Neuron_Malware_Update.pdf) | Jan | NCSC |
 | [Dark Caracal: Cyber-espionage at a Global Scale](2018/Lookout_Dark-Caracal_srr_20180118_us_v.1.0.pdf) | Jan | Lookout & EFF |
 | [International Security and Estonia](2018/raport-2018-ENG-web.pdf) | Feb | Estonian Foreign Intelligence Service |
 | [APT37 Reaper: The Overlooked North Korean Actor](2018/rpt_APT37.pdf) | Feb | FireEye |
 | [BAD TRAFFIC Sandvines PacketLogic Devices Used to Deploy Government Spyware in Turkey and Redirect Egyptian Users to Affiliate Ads](CitizenLab.PacketLogic.pdf) | Mar | The Citizen Lab | 
 | [The Slingshot APT](2018/The-Slingshot-APT_report_ENG_final.pdf) | Mar | Kaspersky | 
+| [Territorial Dispute - NSA's perspective on APT landscape](2018/ukatemicrysys_territorialdispute.pdf) | Mar | CrySyS Lab |
 
 
 ### 2017

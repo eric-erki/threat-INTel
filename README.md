@@ -16,8 +16,10 @@ Note: If you are looking for every type of publicly available documents and note
 | [International Security and Estonia](2018/raport-2018-ENG-web.pdf) | Feb | Estonian Foreign Intelligence Service |
 | [APT37 Reaper: The Overlooked North Korean Actor](2018/rpt_APT37.pdf) | Feb | FireEye |
 | [BAD TRAFFIC Sandvines PacketLogic Devices Used to Deploy Government Spyware in Turkey and Redirect Egyptian Users to Affiliate Ads](CitizenLab.PacketLogic.pdf) | Mar | The Citizen Lab | 
-| [The Slingshot APT](2018/The-Slingshot-APT_report_ENG_final.pdf) | Mar | Kaspersky | 
+| [The Slingshot APT](2018/The-Slingshot-APT_report_ENG_final.pdf) | Mar | Kaspersky |
+| [Industrial Control System Threats](2017-Review-Industrial-Control-System-Threats.pdf) | Mar | Dragos |
 | [Territorial Dispute - NSA's perspective on APT landscape](2018/ukatemicrysys_territorialdispute.pdf) | Mar | CrySyS Lab |
+| [Mtrends 2018]() | May | FireEye |
 
 
 ### 2017

@@ -19,7 +19,9 @@ Note: If you are looking for every type of publicly available documents and note
 | [The Slingshot APT](2018/The-Slingshot-APT_report_ENG_final.pdf) | Mar | Kaspersky |
 | [Industrial Control System Threats](2017-Review-Industrial-Control-System-Threats.pdf) | Mar | Dragos |
 | [Territorial Dispute - NSA's perspective on APT landscape](2018/ukatemicrysys_territorialdispute.pdf) | Mar | CrySyS Lab |
-| [Mtrends 2018]() | May | FireEye |
+| [Targeted Attacks on South Korean Organizations](Tech_Report_Malicious_Hancom.pdf) | Mar | AhnLab |
+| [GravityRAT](GravityRAT.pdf) | Apr | Talos |
+| [Mtrends 2018](mtrends-2018.pdf) | May | FireEye |
 
 
 ### 2017

@@ -21,7 +21,11 @@ Note: If you are looking for every type of publicly available documents and note
 | [Territorial Dispute - NSA's perspective on APT landscape](2018/ukatemicrysys_territorialdispute.pdf) | Mar | CrySyS Lab |
 | [Targeted Attacks on South Korean Organizations](Tech_Report_Malicious_Hancom.pdf) | Mar | AhnLab |
 | [GravityRAT](GravityRAT.pdf) | Apr | Talos |
+| [Hogfish Redleaves](2018/Accenture-Hogfish-Threat-Analysis.pdf) | Apr | Accenture |
 | [Mtrends 2018](mtrends-2018.pdf) | May | FireEye |
+| [Burning Umbrella](2018/20180503_Burning_Umbrella.pdf) | May | ProtectWise |
+| [Andariel Group - KR](2018/Andariel_Threat_Group.pdf) | May | Ahnlab |
+| [Irans Hacker Hierarchy Exposed](2018/cta-2018-0509.pdf) | May | RecordedFuture |
 
 
 ### 2017

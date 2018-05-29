@@ -26,6 +26,8 @@ Note: If you are looking for every type of publicly available documents and note
 | [Burning Umbrella](2018/20180503_Burning_Umbrella.pdf) | May | ProtectWise |
 | [Andariel Group - KR](2018/Andariel_Threat_Group.pdf) | May | Ahnlab |
 | [Irans Hacker Hierarchy Exposed](2018/cta-2018-0509.pdf) | May | RecordedFuture |
+| [New Bank Attacks](2018/New-Bank-Attacks-eng.pdf) | May | Positive Technologies |
+| [Bank Attacks](2018/Banks-attacks-2018-eng.pdf) | May | Positive Technologies |
 
 
 ### 2017

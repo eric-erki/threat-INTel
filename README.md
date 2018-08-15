@@ -28,7 +28,7 @@ Note: If you are looking for every type of publicly available documents and note
 | [Irans Hacker Hierarchy Exposed](2018/cta-2018-0509.pdf) | May | RecordedFuture |
 | [New Bank Attacks](2018/New-Bank-Attacks-eng.pdf) | May | Positive Technologies |
 | [Bank Attacks](2018/Banks-attacks-2018-eng.pdf) | May | Positive Technologies |
-| [Operation Roman Holiday Hunting the Russian APT28 group](2018/20180713_CSE_APT28_X-Agent_Op-Roman\ Holiday-Report_v6_1.pdf) | Jul | CSE Zlab |
+| [Operation Roman Holiday Hunting the Russian APT28 group](2018/20180713_CSE_APT28_X-Agent_Op-RomanHoliday-Report_v6_1.pdf) | Jul | CSE Zlab |
 
 
 ### 2017
